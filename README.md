@@ -8,3 +8,4 @@ All customers must include allergy information as part of their profile.
 Doctor recommendation may get included in customer profile, which can be updated at any time.
 The user's profile gets encrypted and saved to a database.
 The user gets alerted if a food item may affect allergy/doctor's requirements for consumption.
+All dietary supplements are FDA approved.
